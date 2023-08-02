@@ -16,7 +16,7 @@
                       </div>
                   </div>
                   <div class="table-data__tool-right">
-                      <a href="category.html">
+                      <a href="{{ route('category#createPage') }}">
                           <button class="au-btn au-btn-icon au-btn--green au-btn--small">
                               <i class="zmdi zmdi-plus"></i>Add Category
                           </button>  
